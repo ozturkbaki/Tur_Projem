@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Pro-Tur</title>
+  <title>Turlarımız</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,51 +25,26 @@
   require_once("nav.html");
 
   ?>
-
-
-  <header>
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('https://www.izmirhareketliturlar.com/wp-content/uploads/2018/09/Bastan-basa-balkanlar-turu-585077_logo_1529410767.jpg')" background="2.jfif">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>Balkan Turları</h3>
-            <p>Balkan turları için tıkla.</p>
-          </div>
-        </div>
-        <!-- Slide Two - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('https://www.homeoftrabzon.com/resim/_sayfa/3_ecc/b/sumela-manastiri.jpg')">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>Karadeniz Turları</h3>
-            <p>Karadeniz turları için tıkla.</p>
-          </div>
-        </div>
-        <!-- Slide Three - Set the background image for this slide in the line below -->
-        <div class="carousel-item" style="background-image: url('https://imagessl.etstur.com/files/images/site/images/cmsRoot/tourMedia/etstur-pekin-genel-1-1555663913955.jpg')">
-          <div class="carousel-caption d-none d-md-block">
-            <h3>Asya Turları</h3>
-            <p>Asya turları için tıkla.</p>
-          </div>
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Önceki</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Sonraki</span>
-      </a>
-    </div>
-  </header>
-
   <!-- Page Content -->
   <div class="container">
+
+    <!-- Page Heading/Breadcrumbs -->
+    <h1 class="mt-4 mb-3">Turlar
+      <small></small>
+    </h1>
+
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="index.html">Anasayfa</a>
+      </li>
+      <li class="breadcrumb-item active">Turlarımız</li>
+    </ol>
+
+    <!-- Image Header -->
+    <img class="img-fluid rounded mb-4" src="http://placehold.it/1200x300" alt="">
+
+    <!-- Marketing Icons Section -->
+    <div class="container">
 
     <h1 class="my-4">Öne Çıkan Turlar</h1>
 
@@ -147,21 +122,20 @@
           </div>
         </div>
       </div>
-    
-
-
-
-
-    <hr>
-
-  
+    <!-- /.row -->
 
   </div>
-   <?php
+  <!-- /.container -->
+
+  <?php
 
   require_once("footer.html");
 
   ?>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
