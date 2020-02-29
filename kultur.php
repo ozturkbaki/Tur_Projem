@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Modern Business - Start Bootstrap Template</title>
+  <title>Kültür Turları</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@
     <div class="row">
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project One</a>
@@ -55,7 +55,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/3.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Two</a>
@@ -66,7 +66,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/4.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Three</a>
@@ -77,7 +77,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/5.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Four</a>
@@ -88,7 +88,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/6.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Five</a>
@@ -99,7 +99,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/7.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Six</a>
@@ -110,7 +110,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/8.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Seven</a>
@@ -121,7 +121,7 @@
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/kultur/9.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="#">Project Eight</a>
