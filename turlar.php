@@ -59,7 +59,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Kültür Turları</a>
+              <a href="kultur.php">Kültür Turları</a>
             </h4>
             <p class="card-text"> Anadolu'nun farklı şehirlerinde keşifler, Akdeniz ve Ege sahillerinin muhteşem doğasında keyifli anlar. </p>
           </div>
