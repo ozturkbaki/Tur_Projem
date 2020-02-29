@@ -56,7 +56,7 @@
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/turlar/2.jpg" alt=""></a>
+          <a href="kultur.php"><img class="card-img-top" src="img/turlar/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="kultur.php">Kültür Turları</a>
@@ -67,10 +67,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/turlar/1.jpg" alt=""></a>
+          <a href="distur.php"><img class="card-img-top" src="img/turlar/1.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Yurtdışı Turları</a>
+              <a href="distur.php">Yurtdışı Turları</a>
             </h4>
             <p class="card-text">---</p>
           </div>
@@ -78,10 +78,10 @@
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/turlar/3.jpg" alt=""></a>
+          <a href="ozeltur.php"><img class="card-img-top" src="img/turlar/3.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Özel Turlar</a>
+              <a href="ozeltur.php">Özel Turlar</a>
             </h4>
             <p class="card-text">---</p>
           </div>
