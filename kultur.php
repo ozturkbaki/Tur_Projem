@@ -47,7 +47,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project One</a>
+              <a href="#">Odessa Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -58,7 +58,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/3.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Two</a>
+              <a href="#">Brezilya Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -69,7 +69,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/4.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Three</a>
+              <a href="#">Londra Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -80,7 +80,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/5.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Four</a>
+              <a href="#">Tokyo Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -91,7 +91,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/6.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Five</a>
+              <a href="#">New York Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -102,7 +102,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/7.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Six</a>
+              <a href="#">Venedik Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -113,7 +113,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/8.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Seven</a>
+              <a href="#">Roma Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
@@ -124,7 +124,7 @@
           <a href="#"><img class="card-img-top" src="img/turlar/kultur/9.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Project Eight</a>
+              <a href="#">Pergamon Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
