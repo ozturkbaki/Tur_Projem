@@ -27,11 +27,12 @@
   ?>
   <!-- Page Content -->
   <div class="container">
-
-    <!-- Page Heading/Breadcrumbs -->
+ <!-- Page Heading/Breadcrumbs 
     <h1 class="mt-4 mb-3">Turlar
       <small></small>
-    </h1>
+    </h1> -->
+    <br>
+   
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
@@ -55,74 +56,39 @@
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/resized/1.jpg" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Mardin Turu</a>
+              <a href="#">Kültür Turları</a>
             </h4>
-            <p class="card-text">---.</p>
+            <p class="card-text"> Anadolu'nun farklı şehirlerinde keşifler, Akdeniz ve Ege sahillerinin muhteşem doğasında keyifli anlar. </p>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/resized/2.jpg" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/1.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Trabzon Turu</a>
-            </h4>
-            <p class="card-text">---</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 portfolio-item">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/resized/3.jpg" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Bakü Turu</a>
+              <a href="#">Yurtdışı Turları</a>
             </h4>
             <p class="card-text">---</p>
           </div>
         </div>
       </div>
-
-       <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/resized/4.jpg" alt=""></a>
+          <a href="#"><img class="card-img-top" src="img/turlar/3.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Vietnam Turu</a>
-            </h4>
-            <p class="card-text">--- </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-6 portfolio-item">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="img/resized/5.jpg" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Amsterdam Turu</a>
+              <a href="#">Özel Turlar</a>
             </h4>
             <p class="card-text">---</p>
           </div>
         </div>
       </div>
 
-       <div class="col-lg-4 col-sm-6 portfolio-item">
-        <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="/img/resized/7.jpg" alt=""></a>
-          <div class="card-body">
-            <h4 class="card-title">
-              <a href="#">Antalya Turu</a>
-            </h4>
-            <p class="card-text">--- </p>
-          </div>
-        </div>
-      </div>
-    <!-- /.row -->
+      
 
   </div>
   <!-- /.container -->
