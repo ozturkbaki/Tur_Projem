@@ -30,22 +30,21 @@
   <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">FAQ
-      <small>Subheading</small>
+    <h1 class="mt-4 mb-3">Sıkça Sorulan Sorular
     </h1>
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
+        <a href="index.php">Anasayfa</a>
       </li>
-      <li class="breadcrumb-item active">FAQ</li>
+      <li class="breadcrumb-item active">S.S.S</li>
     </ol>
 
     <div class="mb-4" id="accordion" role="tablist" aria-multiselectable="true">
       <div class="card">
         <div class="card-header" role="tab" id="headingOne">
           <h5 class="mb-0">
-            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Collapsible Group Item #1</a>
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Satın Aldığım Turu İptal Edebilir Miyim?</a>
           </h5>
         </div>
 
@@ -58,7 +57,7 @@
       <div class="card">
         <div class="card-header" role="tab" id="headingTwo">
           <h5 class="mb-0">
-            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Collapsible Group Item #2
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Rezervasyonumu İptal Edebilir Miyim?
             </a>
           </h5>
         </div>
@@ -71,7 +70,7 @@
       <div class="card">
         <div class="card-header" role="tab" id="headingThree">
           <h5 class="mb-0">
-            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Collapsible Group Item #3</a>
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Tur Fiyatlarına Neler Dahil?
           </h5>
         </div>
         <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -82,20 +81,22 @@
       </div>
     </div>
 
+    
+
   </div>
   <!-- /.container -->
 
   <!-- Footer -->
-  <?php 
-
-    require_once("footer.html");
-
-  ?>
+ 
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+ <?php 
 
+    require_once("footer.html");
+
+  ?>
 </body>
 
 </html>
