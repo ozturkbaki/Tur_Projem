@@ -36,7 +36,7 @@
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Anasayfa</a>
+        <a href="index.php">Anasayfa</a>
       </li>
       <li class="breadcrumb-item active">Turlarımız</li>
     </ol>
