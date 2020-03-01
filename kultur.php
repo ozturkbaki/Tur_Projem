@@ -38,6 +38,9 @@
       <li class="breadcrumb-item">
         <a href="index.php">Anasayfa</a>
       </li>
+      <li class="breadcrumb-item">
+        <a href="turlar.php">Turlarımız</a>
+      </li>
       <li class="breadcrumb-item active">Kültür Turları</li>
     </ol>
 
