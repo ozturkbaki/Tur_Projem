@@ -30,15 +30,15 @@
   <div class="container">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Portfolio 4
-      <small>Subheading</small>
+    <h1 class="mt-4 mb-3">Kültür
+      <small>Turlarımız</small>
     </h1>
 
     <ol class="breadcrumb">
       <li class="breadcrumb-item">
-        <a href="index.html">Home</a>
+        <a href="index.php">Anasayfa</a>
       </li>
-      <li class="breadcrumb-item active">Portfolio 4</li>
+      <li class="breadcrumb-item active">Kültür Turları</li>
     </ol>
 
     <div class="row">
@@ -47,7 +47,7 @@
           <a href="kultur/odessa.php"><img class="card-img-top" src="img/turlar/kultur/2.jpg" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="../kultur/odessa.php">Odessa Turları</a>
+              <a href="kultur/odessa.php">Odessa Turları</a>
             </h4>
             <p class="card-text"></p>
           </div>
